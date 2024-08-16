@@ -12,7 +12,7 @@ Características:
 9. Búsqueda de número de teléfono
 10. Direcciones de criptomonedas
 
-Nota:Ejecútalo en para un mejor uso
+Nota:Ejecútalo para un mejor uso
 Instalación y uso para Linux y Termux:
 
 pkg update -y && pkg upgrade -y
