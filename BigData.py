@@ -8,18 +8,18 @@ init()
 # ASCII banner
 banner = """
 
-DDDD     OOO  X   X III NN   N   GGGG
-D        D   O   O  X   X   I   NN   N  G    
-D         D O     O  X X    I   N N  N G     
-D         D O     O    X      I   N N  N G     
-D         D O     O    X      I   N  N N G  GGG
-D         D O     O  X X    I   N  N N G        G
-D        D   O   O  X   X   I   N   NN  G       G
-DDDD     OOO  X   X III N   NN   GGGG
+ .########...#######..##.....##.####.##....##..######..
+ .##.....##.##.....##..##...##...##..###...##.##....##.
+ .##.....##.##.....##...##.##....##..####..##.##.......
+ .##.....##.##.....##....###.....##..##.##.##.##...####
+ .##.....##.##.....##...##.##....##..##..####.##....##.
+ .##.....##.##.....##..##...##...##..##...###.##....##.
+ .########...#######..##.....##.####.##....##..######..
+ 
 
 
-          DOXING WEBSITE
-          By AnonNews_irc
+                  DOXING WEBSITE
+                  By AnonNews_irc
 """
 
 def print_banner():
