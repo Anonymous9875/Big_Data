@@ -151,7 +151,7 @@ def print_menu():
 
     print(Fore.RED + "Selecciona una Seccion:" + Style.RESET_ALL)
     for key in sections:
-        print(Fore.PURPLE + key + Style.RESET_ALL)
+        print(Fore.WHITE + key + Style.RESET_ALL)
 
     try:
         choice = int(input(Fore.RED + "Introduce el Numero de la Seccion: " + Style.RESET_ALL))
