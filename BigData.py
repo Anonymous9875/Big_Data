@@ -23,7 +23,7 @@ banner = """
 """
 
 def print_banner():
-    print(Fore.CYAN + banner + Style.RESET_ALL)
+    print(Fore.YELLOW + banner + Style.RESET_ALL)
 
 def print_menu():
     sections = {
@@ -151,7 +151,7 @@ def print_menu():
 
     print(Fore.RED + "Selecciona una Seccion:" + Style.RESET_ALL)
     for key in sections:
-        print(Fore.CYAN + key + Style.RESET_ALL)
+        print(Fore.PURPLE + key + Style.RESET_ALL)
 
     try:
         choice = int(input(Fore.RED + "Introduce el Numero de la Seccion: " + Style.RESET_ALL))
